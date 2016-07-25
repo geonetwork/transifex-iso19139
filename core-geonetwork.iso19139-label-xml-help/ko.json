@@ -1,0 +1,21 @@
+{
+    "labels/element[name='code' and id='207.0' and context='gmd:MD_Identifier']": "네임 스페이스를 식별하는 영숫자 값",
+    "labels/element[name='code' and id='547.0' and context='gmd:MD_CodeValue']": "값 코드 (즉, 숫자)",
+    "labels/element[name='gco:Date' and id='393.0']": "그것을 설명하는데 기준 날짜와 이벤트를 사용",
+    "labels/element[name='gco:DateTime' and id='64.0' and context='gmd:MD_Usage']": "최초 사용 날짜와 시간 또는 리소스 및 / 또는 리소스 시리즈의 사용 범위",
+    "labels/element[name='gco:DateTime' and id='300.0' and context='gmd:MD_StandardOrderProcess']": "이 소스를 사용할 수 날짜와 시간",
+    "labels/element[name='gmd:DQ_Scope' and id='138.0']": "질적 정보를 보고하기 위한 데이터 특성(들)의 범위",
+    "labels/element[name='gmd:LI_ProcessStep' and id='86.0']": "데이터 셋을 유지는 공정을 포함한 데이터 셋의 수명에 이벤트 또는 변환에 대한 정보",
+    "labels/element[name='gmd:MD_Band' and id='259.0']": "전자기 스펙트럼의 파장 범위",
+    "labels/element[name='gmd:MD_ReferenceSystem' and id='186.0']": "참조 체계에 대한 정보",
+    "labels/element[name='gmd:code' and id='547.0' and context='gmd:MD_CodeValue']": "값 코드 (즉, 숫자)",
+    "labels/element[name='gmd:collectiveTitle' and id='371.0']": "이 필드는 GeoIV 부록 I에 정의 된 기본 지리 데이터 이름을 사용하고, 한 법적 항목에 지정된 1 개 이상의 \"물리적\"데이터셋이 가능하다. 예컨대 : 항목 없음. 47 \"Geophysikalisches Kartenwerk\"는 \"Geophysikalische Karten 1 : 500000\", \"Geophysikalische Spezialkarten\"와 \"Gravimetrischer 아틀라스 1 : 100000\"로 3 가지 데이터셋으로 구성되었다. ",
+    "labels/element[name='gmd:dataSetURI' and id='11.1']": "메타 데이터가 적용되는 데이터 셋의 균일화 리소스 식별자 (URI:Uniformed Resource Identifier).\n이 링크는 기계 판독 데이터 셋에 직접 말합니다.",
+    "labels/element[name='gmd:fileType' and id='51.0']": "그림이 인코딩되는 형식 예 : CGM, EPS, GIF, JPEG, PBM, PS, TIFF, XWD",
+    "labels/element[name='gmd:imageQualityCode' and id='247.0']": "화질 지정",
+    "labels/element[name='gmd:language' and context='gmd:MD_DataIdentification' and id='39.0']": "데이터 셋 내에서 사용된 언어(들)",
+    "labels/element[name='gmd:name' and context='gmd:MD_Format' and id='285.0']": "데이터 전송 포맷(s)의 이름",
+    "labels/element[name='gmd:onlineResource' and id='390.0']": "웹 사이트에 접근하는 URL을 정의",
+    "labels/element[name='gmd:type' and id='543.0' and context='gmd:MD_Type']": "공식 또는 비공식적 데이터 타입 정의( 즉, 텍스트12, 줄)",
+    "labels/element[name='gml:id' and id='191.0' and context='gmd:MD_CRS']": "타원체의 본질을사용"
+}

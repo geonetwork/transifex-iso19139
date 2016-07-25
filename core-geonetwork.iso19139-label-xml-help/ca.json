@@ -1,0 +1,21 @@
+{
+    "labels/element[name='code' and id='207.0' and context='gmd:MD_Identifier']": "valor alfanumèric que identifica una instància de l'espai de noms",
+    "labels/element[name='code' and id='547.0' and context='gmd:MD_CodeValue']": "Codi de valor (per exemple, numèric)",
+    "labels/element[name='gco:Date' and id='393.0']": "data de referència i esdeveniment utilitzat per descriure-la",
+    "labels/element[name='gco:DateTime' and id='64.0' and context='gmd:MD_Usage']": "data i hora de la primera utilització o rang d'usos del recurs i/o sèrie de recursos",
+    "labels/element[name='gco:DateTime' and id='300.0' and context='gmd:MD_StandardOrderProcess']": "data i hora en la que el recurs estarà disponible",
+    "labels/element[name='gmd:DQ_Scope' and id='138.0']": "extensió de les característiques de la dada per a la que es reporta la qualitat de la informació",
+    "labels/element[name='gmd:LI_ProcessStep' and id='86.0']": "informació sobre un esdeveniment o transformació durant l'històric d'un conjunt de dades, incloent-hi el procés de mantenir-lo",
+    "labels/element[name='gmd:MD_Band' and id='259.0']": "rang de longituds d'ona en l'espectre electromagnètic",
+    "labels/element[name='gmd:MD_ReferenceSystem' and id='186.0']": "informació sobre el sistema de referència",
+    "labels/element[name='gmd:code' and id='547.0' and context='gmd:MD_CodeValue']": "Codi de valor (per exemple, numèric)",
+    "labels/element[name='gmd:collectiveTitle' and id='371.0']": "Aquest camp s'utilitza per anomenar les Geodades Bàsiques definides al GeoIV Annex I, i és possible que hi hagi más de un conjunto de dades \"físics\" assignats a una entrada legal. Per exemple, l'entrada 47 de \"Sèrie de mapes geofísics\" consisteix en 3 conjunts de dades: \"Mapa geofísic 1:500000\", \"Mapa especial geofísic\" i \"Atles gravimètric 1:100000\"",
+    "labels/element[name='gmd:dataSetURI' and id='11.1']": "Identificador Uniforme de Recursos (URI) del conjunt de dades a la qual s'apliquen les metadades. Aquest vincle fa referència directa al conjunt de dades llegibles per una màquina.",
+    "labels/element[name='gmd:fileType' and id='51.0']": "Format en el qual es codifica la il·lustració. Exemples: CGM, EPS, GIF, JPEG, PBM, PS,\nTIFF, XWD",
+    "labels/element[name='gmd:imageQualityCode' and id='247.0']": "especifica la qualitat de la imatge",
+    "labels/element[name='gmd:language' and context='gmd:MD_DataIdentification' and id='39.0']": "idioma(es) que es fa(n) servir dins el conjunt de dades",
+    "labels/element[name='gmd:name' and context='gmd:MD_Format' and id='285.0']": "nom del(s) format(s) de transferència de dades",
+    "labels/element[name='gmd:onlineResource' and id='390.0']": "Defineix la URL per accedir a la pàgina web",
+    "labels/element[name='gmd:type' and id='543.0' and context='gmd:MD_Type']": "Definició del tipus de dada, formal o informal (p.e. Text12, Línia)",
+    "labels/element[name='gml:id' and id='191.0' and context='gmd:MD_CRS']": "identificació de l'el·lipsoide utilitzat"
+}

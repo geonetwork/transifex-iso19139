@@ -1,0 +1,21 @@
+{
+    "labels/element[name='code' and id='207.0' and context='gmd:MD_Identifier']": "alphanumeric value identifying an instance in the namespace",
+    "labels/element[name='code' and id='547.0' and context='gmd:MD_CodeValue']": "Value code (i.e. numeric)",
+    "labels/element[name='gco:Date' and id='393.0']": "reference date and event used to describe it",
+    "labels/element[name='gco:DateTime' and id='64.0' and context='gmd:MD_Usage']": "date and time of the first use or range of uses of the resource and/or resource\n            series",
+    "labels/element[name='gco:DateTime' and id='300.0' and context='gmd:MD_StandardOrderProcess']": "date and time when theresource will be available",
+    "labels/element[name='gmd:DQ_Scope' and id='138.0']": "extent of characteristic(s) of the data for which quality information is\n            reported",
+    "labels/element[name='gmd:LI_ProcessStep' and id='86.0']": "information about an event or transformation in the life of a dataset including the\n            process used to maintain the dataset",
+    "labels/element[name='gmd:MD_Band' and id='259.0']": "range of wavelengths in the electromagnetic spectrum",
+    "labels/element[name='gmd:MD_ReferenceSystem' and id='186.0']": "information about the reference system",
+    "labels/element[name='gmd:code' and id='547.0' and context='gmd:MD_CodeValue']": "Value code (i.e. numeric)",
+    "labels/element[name='gmd:collectiveTitle' and id='371.0']": "This field is used to name the Basic Geodata as defined in the GeoIV Annex I, as it is possible that there are more than 1 \"physical\" datasets assigned to 1 legal entry. E.g.: Entry no. 47 \"Geophysikalisches Kartenwerk\" consists of 3 datasets \"Geophysikalische Karten 1:500000\", \"Geophysikalische Spezialkarten\" and \"Gravimetrischer Atlas 1:100000\"",
+    "labels/element[name='gmd:dataSetURI' and id='11.1']": "Uniformed Resource Identifier (URI) of the dataset to which the metadata applies. This\n            link refers direct to the machine-readable dataset.",
+    "labels/element[name='gmd:fileType' and id='51.0']": "format in which the illustration is encoded Examples: CGM, EPS, GIF, JPEG, PBM, PS,\n            TIFF, XWD",
+    "labels/element[name='gmd:imageQualityCode' and id='247.0']": "specifies the image quality",
+    "labels/element[name='gmd:language' and context='gmd:MD_DataIdentification' and id='39.0']": "language(s) used within the dataset",
+    "labels/element[name='gmd:name' and context='gmd:MD_Format' and id='285.0']": "nom du format de transfert de donnée",
+    "labels/element[name='gmd:onlineResource' and id='390.0']": "Define URL to access the website",
+    "labels/element[name='gmd:type' and id='543.0' and context='gmd:MD_Type']": "Data type definition, formal of informal (i.e. Text12, Line)",
+    "labels/element[name='gml:id' and id='191.0' and context='gmd:MD_CRS']": "identity of the ellipsoid used"
+}

@@ -1,0 +1,21 @@
+{
+    "labels/element[name='code' and id='207.0' and context='gmd:MD_Identifier']": "alphanumeric value identifying an instance in the namespace",
+    "labels/element[name='code' and id='547.0' and context='gmd:MD_CodeValue']": "Virðiseining (t.d. töluleg)",
+    "labels/element[name='gco:Date' and id='393.0']": "viðmiðunardagsetning og atburður sem notaður er til að lýsa henni",
+    "labels/element[name='gco:DateTime' and id='64.0' and context='gmd:MD_Usage']": "dagsetning og tími fyrstu notkunar eða spönn notkunar á gögnum og/eða gagnaflokk",
+    "labels/element[name='gco:DateTime' and id='300.0' and context='gmd:MD_StandardOrderProcess']": "Dagsetning og tími þegar gagnasettið verður tilbúið",
+    "labels/element[name='gmd:DQ_Scope' and id='138.0']": "extent of characteristic(s) of the data for which quality information is\n            reported",
+    "labels/element[name='gmd:LI_ProcessStep' and id='86.0']": "Upplýsingar um atburð eða umbreytingu í líftíma gagnasettsins, þar á meðal ferlið sem notað er til að viðhalda gagnasettinu",
+    "labels/element[name='gmd:MD_Band' and id='259.0']": "Spönn bylgjulengda í rafsegulsviðsrófinu",
+    "labels/element[name='gmd:MD_ReferenceSystem' and id='186.0']": "Upplýsingar um hnitakerfið",
+    "labels/element[name='gmd:code' and id='547.0' and context='gmd:MD_CodeValue']": "Virðiseining (t.d. töluleg)",
+    "labels/element[name='gmd:collectiveTitle' and id='371.0']": "Þessi reitur er notaður til að nefna Basic Geodata eins og þau eru skilgreind í GeoIV Annex I, það er mögulegt að það séu fleiri en 1 \"physical\" gagnasett tengt við eina löglega færslu. T.d.: Færsla nr. 47 \"Geophysikalisches Kartenwerk\" samanstendur af 3 gagnasettum \"Geophysikalische Karten 1:500000\", \"Geophysikalische Spezialkarten\" og \"Gravimetrischer Atlas 1:100000\"",
+    "labels/element[name='gmd:dataSetURI' and id='11.1']": "Uniformed Resource Identifier (URI) of the dataset to which the metadata applies. This\n            link refers direct to the machine-readable dataset.",
+    "labels/element[name='gmd:fileType' and id='51.0']": "format in which the illustration is encoded Examples: CGM, EPS, GIF, JPEG, PBM, PS,\n            TIFF, XWD",
+    "labels/element[name='gmd:imageQualityCode' and id='247.0']": "tilgreinir gæði myndar",
+    "labels/element[name='gmd:language' and context='gmd:MD_DataIdentification' and id='39.0']": "tungumál gagnasetts",
+    "labels/element[name='gmd:name' and context='gmd:MD_Format' and id='285.0']": "nafn á gagnaflutningssniði",
+    "labels/element[name='gmd:onlineResource' and id='390.0']": "Skilgreina URL til að opna vefsíðu",
+    "labels/element[name='gmd:type' and id='543.0' and context='gmd:MD_Type']": "Data type definition, formal of informal (i.e. Text12, Line)",
+    "labels/element[name='gml:id' and id='191.0' and context='gmd:MD_CRS']": "Auðkenni sporvölunnar sem er notuð"
+}

@@ -1,0 +1,21 @@
+{
+    "labels/element[name='code' and id='207.0' and context='gmd:MD_Identifier']": "valor alfanumérico que identifica una instancia del namespace",
+    "labels/element[name='code' and id='547.0' and context='gmd:MD_CodeValue']": "Código de valor (p.e. numérico)",
+    "labels/element[name='gco:Date' and id='393.0']": "fecha de referencia y evento usados para describirlo",
+    "labels/element[name='gco:DateTime' and id='64.0' and context='gmd:MD_Usage']": "fecha y tiempo del primer uso o rango de usos del recurso y/o series de recursos",
+    "labels/element[name='gco:DateTime' and id='300.0' and context='gmd:MD_StandardOrderProcess']": "fecha y hora cuando el recurso estará disponible",
+    "labels/element[name='gmd:DQ_Scope' and id='138.0']": "extensión de las características del dato cuya información de calidad es\n            reportada",
+    "labels/element[name='gmd:LI_ProcessStep' and id='86.0']": "información sobre un evento o transformación durante el histórico de un conjunto de datos, incluyendo el proceso de mantenerlo",
+    "labels/element[name='gmd:MD_Band' and id='259.0']": "rango de longitud de ondas en el espectro electromagnético",
+    "labels/element[name='gmd:MD_ReferenceSystem' and id='186.0']": "información sobre el sistema de referencia",
+    "labels/element[name='gmd:code' and id='547.0' and context='gmd:MD_CodeValue']": "Código de valor (p.e. numérico)",
+    "labels/element[name='gmd:collectiveTitle' and id='371.0']": "Este campo se usa para nombrar los GeoDatos Básicos definidos en el GeoIV Annex I, al ser posible que haya más de un conjunto de datos \"physical\" asignado a una entrada legal. P.e..: La entrada 47 de \"Geophysikalisches Kartenwerk\" consiste en 3 conjuntos de datos: \"Geophysikalische Karten 1:500000\", \"Geophysikalische Spezialkarten\" y \"Gravimetrischer Atlas 1:100000\"",
+    "labels/element[name='gmd:dataSetURI' and id='11.1']": "Identificador Uniformado del Recurso (URI) del conjunto de datos al que aplica el metadato. Este\n            enlace referencia directamente a un dataset legible por la máquina.",
+    "labels/element[name='gmd:fileType' and id='51.0']": "formato en el que se codifica la imagen. Ejemplos: CGM, EPS, GIF, JPEG, PBM, PS,\n            TIFF, XWD",
+    "labels/element[name='gmd:imageQualityCode' and id='247.0']": "especifica la calidad de la imagen",
+    "labels/element[name='gmd:language' and context='gmd:MD_DataIdentification' and id='39.0']": "idioma(s) usados en el conjunto de datos",
+    "labels/element[name='gmd:name' and context='gmd:MD_Format' and id='285.0']": "nombre del formato (o los formatos) de transferencia de datos",
+    "labels/element[name='gmd:onlineResource' and id='390.0']": "Define la URL para acceder al sitio web",
+    "labels/element[name='gmd:type' and id='543.0' and context='gmd:MD_Type']": "Definición del tipo de dato, formal o informal (p.e. Text12, Línea)",
+    "labels/element[name='gml:id' and id='191.0' and context='gmd:MD_CRS']": "identifica el elipsoide usado"
+}
